@@ -37,5 +37,22 @@ public class TiposVariaveis {
         short numeroCurto =1;
         int numeroNormal = numeroCurto;
         short numeroCurto2 = (short) numeroNormal; // Para termos um valor de precisão menor neste caso devemos fazer um casting
+
+
+        /*
+         * ============================================
+         *  Constantes em Java
+         * ============================================
+         *
+         * Constantes tambem são valores armazenados na memória, mas que não podem ser modificados após serem declaradas,
+         * no Java, estes valores são representados pela palavra reservada final, seguida do tipo.
+         * Por convenção, constantes são sempre escritas em CAIXA ALTA.
+         *
+         * final <Tipo> <nomeVariável> = <atribuiçãoDeValorOpcional>
+         */
+
+        final double VALOR_DE_PI = 3.14;
+
+        // VALOR_DE_PI = 12; neste caso a variavel não pode ser modificada em nenhum outro local do codigo.
     }
 }
