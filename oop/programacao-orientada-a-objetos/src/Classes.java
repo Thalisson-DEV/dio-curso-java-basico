@@ -27,6 +27,27 @@ public class Classes {
          *  - Classe de controle (controller's): Classes que possuem a finalidade de disponibilizar alguma comunicação externa à nossa aplicação, tipo http ou webservices.
          *  - Classe utilitária (util's): Classes que contém recursos comuns à toda a aplicação.
          */
+
+        /*
+         * =========================================
+         * ENUMS
+         * =========================================
+         * Enum é um tipo especial de classe onde os objetos são previamente criados, são imutaeis e estão disponiveis por toda a aplicação.
+         * Usamos Enum quando o nosso modelo de negócio contém objetos de mesmo contexto que já existem de pré-estabelecida com a certeza de não haver alterações de valores.
+         * - Exemplos:
+         *   - Estados civis,
+         *   - Estados Brasileiros,
+         *   - Etc...
+         */
+
+        for(EstadosBrasileiros e: EstadosBrasileiros.values()) {
+            System.out.println(e.getSigla() + " - " + e.getNomeMaiusculo());
+        }
+
+        EstadosBrasileiros eb = EstadosBrasileiros.PIAUI;
+        System.out.println(eb.getNome());
+        System.out.println(eb.getSigla());
+        System.out.println(eb.getNomeMaiusculo());
     }
 
     public static class Estudante {
@@ -104,6 +125,32 @@ public class Classes {
 
         void correr() {
 
+        }
+    }
+
+    public enum EstadosBrasileiros {
+        SÃO_PAULO("SP", "São Paulo"),
+        RIO_JANEIRO ("RJ", "Rio de Janeiro"),
+        PIAUI ("PI", "Piauí");
+
+        private String nome;
+        private String sigla;
+
+        private EstadosBrasileiros(String sigla, String nome) {
+            this.sigla = sigla;
+            this.nome = nome;
+        }
+
+        public String getSigla() {
+            return sigla;
+        }
+
+        public String getNome() {
+            return nome;
+        }
+
+        public String getNomeMaiusculo() {
+            return this.nome.toUpperCase();
         }
     }
 }
