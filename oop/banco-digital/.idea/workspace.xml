@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd3ff397-2268-40d5-913c-aa48b9d89dba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/exceptions/SaldoInsuficienteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/interfaces/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/models/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/models/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/models/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/models/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../componente-iphone/DesafioIphone/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conhecendo-a-sintaxe-Java/terminal-e-argumentos/src/TerminalArgumentos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../conhecendo-a-sintaxe-Java/terminal-e-argumentos/src/TerminalArgumentos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estruturas-condicionais/condicao-ternaria/src/CondicaoTernaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../estruturas-condicionais/condicao-ternaria/src/CondicaoTernaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estruturas-condicionais/condicional-composta/src/CondicionalComposta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../estruturas-condicionais/condicional-composta/src/CondicionalComposta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estruturas-de-repeticao/for/src/For.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../estruturas-de-repeticao/for/src/For.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../componente-iphone/DesafioIphone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../componente-iphone/DesafioIphone/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Thalisson-DEV"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Thalisson-DEV/dio-curso-java-basico.git",
+    "accountId": "598add53-d659-4998-ad0d-402b90c00b2b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="36yfNB8j4EL5KuMUJ27KGkezjoP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Estudos-Java-DIO/curso-java-basico/oop/banco-digital/src/main/java/com/rocketseat/Main.java",
+    "settings.editor.selected.configurable": "build.tools",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd3ff397-2268-40d5-913c-aa48b9d89dba" name="Changes" comment="" />
+      <created>1765983689842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765983689842</updated>
+      <workItem from="1765983691029" duration="3211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
