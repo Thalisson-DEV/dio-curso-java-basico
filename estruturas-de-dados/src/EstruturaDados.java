@@ -1,5 +1,3 @@
-import java.awt.*;
-import java.security.PublicKey;
 import java.util.List;
 
 public class EstruturaDados {
